@@ -50,6 +50,7 @@
 /* _______nav-part________  */
 
 /* _______main section start________  */
+/* Discover our new courses  */
 .intro-title{
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
@@ -66,4 +67,29 @@
     width: 606px;
     height: 60px;
 }
+/* critical path  */
+.Remove-padding{
+    padding: 0;
+}
+.custom-card-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #4A4A4A;
+    font-size: 23px;
+}
+.custom-card-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #777777;
+    font-size: 15px;
+}
+.custom-card-price{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    color: #289BDE;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+/* critical path  */
+/* Discover our new courses  */
 /* _______main section end________  */
