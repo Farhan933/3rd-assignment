@@ -48,3 +48,22 @@
 }
 /* carousel */
 /* _______nav-part________  */
+
+/* _______main section start________  */
+.intro-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    color: #1D1D1D;
+    width: 549px;
+    height: 120px;
+}
+.intro-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #777777;
+    width: 606px;
+    height: 60px;
+}
+/* _______main section end________  */
