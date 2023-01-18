@@ -1,0 +1,54 @@
+/* Common style or utilities  */
+.container{
+    padding: 0;
+}
+
+/* _______nav-part________  */
+/* navbar */
+.nav-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #4A4A4A;
+}
+.nav-all-link{
+    font-family: 'Poppins', sans-serif;
+    color: #777777;
+    font-weight: 400;
+    font-size: 18px;
+}
+.rg-button{
+    font-family: 'Poppins', sans-serif;
+    color:#289BDE;
+    font-weight: 600;
+    font-size: 20px;
+}
+/* navbar */
+
+/* carousel */
+.carousel-title{
+    font-family: 'Poppins', sans-serif
+    font-weight: 600;
+    font-size: 65px;
+    color: white;
+}
+.carousel-info{
+    font-family: 'Poppins', sans-serif
+    font-weight: 400;
+    font-size: 18px;
+    color: #F4F4F4;
+}
+.carousel-button{
+    font-family: 'Poppins', sans-serif
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #289BDE;
+    color: white;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+    padding: 13px 33px;
+}
+
+/* carousel */
+
+/* _______nav-part________  */
