@@ -24,31 +24,27 @@
     font-size: 20px;
 }
 /* navbar */
-
 /* carousel */
 .carousel-title{
-    font-family: 'Poppins', sans-serif
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     font-size: 65px;
     color: white;
 }
 .carousel-info{
-    font-family: 'Poppins', sans-serif
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: #F4F4F4;
 }
 .carousel-button{
-    font-family: 'Poppins', sans-serif
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     font-size: 20px;
     background-color: #289BDE;
-    color: white;
     border: 1px solid #289BDE;
     border-radius: 5px;
-    padding: 13px 33px;
+    color: white;
 }
-
 /* carousel */
-
 /* _______nav-part________  */
