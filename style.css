@@ -92,4 +92,49 @@
 }
 /* critical path  */
 /* Discover our new courses  */
+
+/* simple button  */
+.simple-button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 20px;
+    color: white;
+    background-color: #289BDE;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+    padding: 13px 33px;
+}
+/* simple button  */
+
+/* simple card  */
+.c-c-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 45px;
+    color: #1D1D1D;
+    width: 549px;
+    height: 120px;
+}
+.c-c-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 16px;
+    color: #777777;
+    line-height: 30px;
+    width: 606px;
+    height: 210px;
+}
+.view-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 45px;
+    color: #1D1D1D;
+}
+.view-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500; 
+    font-size: 16px;
+    color: #777777;
+}
+/* simple card  */
 /* _______main section end________  */
