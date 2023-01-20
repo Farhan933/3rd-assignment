@@ -197,3 +197,29 @@
 }
 /* student feedback */
 /* _______main section end________  */
+
+/* ___________footer__________  */
+.footer-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 35px;
+    color: white;
+}
+.footer-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+    font-size: 16px;
+    color: #E8E8E8;
+}
+.footer-s-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+    font-size: 14px;
+    color: #E8E8E8;
+}
+.icons{
+    color: white;
+    width: 205px;
+    height: 40px;
+}
+/* ___________footer__________  */
