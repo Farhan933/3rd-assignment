@@ -163,12 +163,37 @@
 } */
 /* Ready to join  */
 
-/* student feedback  */
+/* successful student  */
 .student-card{
     border: 1px solid #E8E8E8;
     border-radius: 5px;
     width: 312px;
     height: 400px;
 }
-/* student feedback  */
+.student-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 20px;
+    color: #4A4A4A;
+}
+.student-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+    font-size: 16px;
+    color: #777777;
+}
+.s-s-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 16px;
+    color: #4A4A4A;
+    margin-bottom: 4px; 
+}
+.s-s-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 14px;
+    color: #4A4A4A; 
+}
+/* student feedback */
 /* _______main section end________  */
