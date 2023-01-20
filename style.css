@@ -2,7 +2,6 @@
 .container{
     padding: 0;
 }
-
 /* _______nav-part________  */
 /* navbar */
 .nav-title{
@@ -137,4 +136,39 @@
     color: #777777;
 }
 /* simple card  */
+
+/* Ready to join  */
+/* .Ready-button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 20px;
+    background-color: white;
+    color: #289BDE;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+    padding: 13px 33px;
+    border: none;
+}
+.Ready-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    font-size: 45px;
+    color: #ffffff;
+}
+.Ready-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500; 
+    font-size: 16px;
+    color: #ffffff; 
+} */
+/* Ready to join  */
+
+/* student feedback  */
+.student-card{
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+    width: 312px;
+    height: 400px;
+}
+/* student feedback  */
 /* _______main section end________  */
